@@ -115,12 +115,12 @@ print(f"{number},{number1},{number2},{number3},{number4},{number5}")
 
 
 # 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# lastname
+# email_address
+# percent
+# variable_name
+# Zero
+# list_of_names
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -141,10 +141,10 @@ print(f"{number},{number1},{number2},{number3},{number4},{number5}")
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_variable
+# email_address
+# percentage
+# iceberg
 
 
 
